@@ -8,6 +8,7 @@ Fitness
 * 3x8-12 Front Squat
 * 3x8-12 Leg Curls/Glute Ham Raise
 * 3x10 Cable Crunches
+* 3x15 Leg Raises
 
 ## Tuesday - Push
 * 4x5, 1x5+ Bench Press
@@ -19,7 +20,7 @@ Fitness
 ## Wednesday - Pull
 * 3x5 Deadlift
 * 3x8-12 Pullups/Chinups
-* 3x8-12 Seated Cable * Rows/T-bar Row
+* 3x8-12 Seated Cable Rows/T-bar Row
 * 5x15-20 Face Pulls/Rear Delt Fly
 * 4x8-12 Dumbbell Curls
 
