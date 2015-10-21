@@ -3,7 +3,7 @@ Fitness
 
 # Program
 
-## Monday - Legs/Abs
+## Monday - Legs
 * 2x5, 1x5+ Squat
 * 3x8-12 Front Squat
 * 3x8-12 Leg Curls/Glute Ham Raise
