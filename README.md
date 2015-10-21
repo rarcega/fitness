@@ -43,5 +43,4 @@ Every workout session increase weight;
 * 5lbs for upper body lifts (bench press, row, * overhead press)
 * 5lbs for squats
 * 10lbs for deadlift
-* If 12 reps reached in assistance exercises
-* 
+* If 12 reps reached in assistance exercises increase weight
