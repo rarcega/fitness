@@ -56,7 +56,7 @@ Fitness
 * 3x8-12 Bench Press
 * 5x1 Clean & Jerk/1x5 Deadlift
 * 3x8-12 T-bar Row/Pullups/Chinups
-* 3x8-12 3x8-12 Seated Cable Rows//Dips
+* 3x8-12 Seated Cable Rows//Dips
 
 ## Saturday/Sunday - Accessory
 
