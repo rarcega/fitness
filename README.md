@@ -5,10 +5,10 @@ Fitness
 
 ## Monday - Legs
 
-### Strength
+#### Strength
 * 2x5, 1x5+ Squat
 
-### Hypertrophy/Assistance
+####  Hypertrophy/Assistance
 * 3x8-12 Front Squat
 * 3x8-12 Leg Curls/Glute Ham Raise
 * 3x10 Cable Crunches
@@ -16,10 +16,10 @@ Fitness
 
 ## Tuesday - Push
 
-### Strength
+#### Strength
 * 4x5, 1x5+ Bench Press
 
-### Hypertrophy/Assistance
+#### Hypertrophy/Assistance
 * 3x8-12 Overhead Press
 * 3x8-12 Incline Bench/DB Press
 * 3x8-12 Dips/Tricep exercises
@@ -27,10 +27,10 @@ Fitness
 
 ## Wednesday - Pull
 
-### Strength
+#### Strength
 * 3x5 Deadlift
 
-### Hypertrophy/Assistance
+#### Hypertrophy/Assistance
 * 3x8-12 Pullups/Chinups
 * 3x8-12 Seated Cable Rows/T-bar Row
 * 5x15-20 Face Pulls/Rear Delt Fly
@@ -38,10 +38,10 @@ Fitness
 
 ## Thursday - Lower
 
-### Strength
+#### Strength
 * 2x5, 1x5+ Squat
 
-### Hypertrophy/Assistance
+#### Hypertrophy/Assistance
 * 3x8-12 Front Squat
 * 3x8-12 Leg Curls/Glute Ham Raise
 * 3x10 Cable Crunches
@@ -49,14 +49,23 @@ Fitness
 
 ## Friday - Upper
 
-### Strength
+#### Strength
 * 4x5, 1x5+ Overhead Press
 
-### Hypertrophy/Assistance
+#### Hypertrophy/Assistance
 * 3x8-12 Bench Press
 * 5x1 Clean & Jerk/1x5 Deadlift
 * 3x8-12 T-bar Row/Pullups/Chinups
 * 3x8-12 Dips
+
+## Saturday/Sunday - Accessory
+
+### Accessory
+* Weighted Dips
+* Weighted Pullups/Chinups
+* Lateral Raises
+* P90x Ab Ripper
+
 
 ## Progression
 Every workout session increase weight:
