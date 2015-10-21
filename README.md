@@ -1,0 +1,43 @@
+Fitness
+=======
+
+# Program
+
+## Monday - Legs/Abs
+* 2x5, 1x5+ Squat
+* 3x8-12 Front Squat
+* 3x8-12 Leg Curls/Glute Ham Raise
+* 3x10 Cable Crunches
+
+## Tuesday - Push
+* 4x5, 1x5+ Bench Press
+* 3x8-12 Overhead Press
+* 3x8-12 Incline Bench/DB Press
+* 3x8-12 Dips/Tricep exercises
+* 3x8-12 Lateral Raises
+
+## Wednesday - Pull
+* 3x5 Deadlift
+* 3x8-12 Pullups/Chinups
+* 3x8-12 Seated Cable * Rows/T-bar Row
+* 5x15-20 Face Pulls/Rear Delt Fly
+* 4x8-12 Dumbbell Curls
+
+## Thursday - Lower
+* 2x5, 1x5+ Squat
+* 3x8-12 Front Squat
+* 3x8-12 Leg Curls/Glute Ham Raise
+* 3x10 Cable Crunches
+* 3x15 Leg Raises
+
+## Friday - Upper
+* 4x5, 1x5+ Overhead Press
+* 3x8-12 Bench Press
+* 5x1 Clean & Jerk OR 1x5 Deadlift
+* 3x8-12 T-bar Row/Pullups/Chinups
+* 3x8-12 Dips
+
+## Progression
+* 2.5kg/5lbs for upper body lifts (bench press, row, * overhead press)
+* 2.5kg/5lbs for squats
+* 5kg/10lbs for deadlifts
