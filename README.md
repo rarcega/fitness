@@ -34,11 +34,14 @@ Fitness
 ## Friday - Upper
 * 4x5, 1x5+ Overhead Press
 * 3x8-12 Bench Press
-* 5x1 Clean & Jerk OR 1x5 Deadlift
+* 5x1 Clean & Jerk/1x5 Deadlift
 * 3x8-12 T-bar Row/Pullups/Chinups
 * 3x8-12 Dips
 
 ## Progression
-* 2.5kg/5lbs for upper body lifts (bench press, row, * overhead press)
-* 2.5kg/5lbs for squats
-* 5kg/10lbs for deadlifts
+Every workout session increase weight;
+* 5lbs for upper body lifts (bench press, row, * overhead press)
+* 5lbs for squats
+* 10lbs for deadlift
+* If 12 reps reached in assistance exercises
+* 
