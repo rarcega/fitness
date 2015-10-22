@@ -14,7 +14,7 @@ A 5-day PPLUL split focused on strength and aesthetics.
 * 3x8-12 Front Squat
 * 3x8-12 Leg Curls/Glute Ham Raise
 * 3x10 Cable Crunches
-* 3x15 Leg Raises
+* 3x15 Leg Raises/Calf Raises
 
 ## Tuesday - Push
 
@@ -47,7 +47,7 @@ A 5-day PPLUL split focused on strength and aesthetics.
 * 3x8-12 Front Squat
 * 3x8-12 Leg Curls/Glute Ham Raise
 * 3x10 Cable Crunches
-* 3x15 Leg Raises
+* 3x15 Leg Raises/Calf Raises
 
 ## Friday - Upper
 
