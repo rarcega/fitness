@@ -1,6 +1,8 @@
 Fitness
 =======
 
+A 5-day PPLUL split focused on strength and aesthetics.
+
 # Program
 
 ## Monday - Legs
