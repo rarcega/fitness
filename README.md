@@ -1,7 +1,7 @@
 Fitness
 =======
 
-A 5-day PPLUL split focused on strength and aesthetics.
+A 5-day PPLULRR split focused on strength and aesthetics.
 
 # Program
 
@@ -60,7 +60,7 @@ A 5-day PPLUL split focused on strength and aesthetics.
 * 3x8-12 T-bar Row/Pullups/Chinups
 * 3x8-12 Seated Cable Rows//Dips
 
-## Saturday/Sunday - Accessory
+## Saturday/Sunday - Accessory/Rest
 
 ### Accessory
 * Weighted Dips
